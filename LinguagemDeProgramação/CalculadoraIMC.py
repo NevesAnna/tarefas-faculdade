@@ -1,6 +1,5 @@
-pergunta_nome = input("Qual seu nome?")
-nome = ("Olá", pergunta_nome)
-idade = input(f"Qual sua idade?")
+nome_pessoa = input("Qual seu nome?")
+nome = ("Olá", nome_pessoa)
 peso = float(input("Qual seu peso? (kg)"))
 altura = float(input("Qual sua altura? (em metros)"))
 
@@ -8,7 +7,7 @@ print("Vamos calcular seu IMC")
 
 imc = (peso / (altura * altura))
 
-print(pergunta_nome , (f"Seu IMC é: {imc:.2f}"))
+print(nome_pessoa , (f"Seu IMC é: {imc:.2f}"))
 if imc < 16:
 	print("Seu estado é de Magreza grave\n")
 elif imc < 17:

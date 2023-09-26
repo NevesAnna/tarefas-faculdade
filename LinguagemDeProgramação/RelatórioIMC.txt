@@ -1,0 +1,7 @@
+Comecei pesquisando como é feito o cálculo de IMC: Dividindo o peso pelo quadrado da altura.
+Defini as variáveis, pra coletar posteriormente e poder aplicar o cálculo.
+Optei por tipar as variáveis de peso e altura pra não ter erro de input por parte do usuário.
+Usei condicionais intermediárias (elif) pro código ficar mais limpo.
+Tive dificuldade na formatação da string, pesquisei um pouco pra aprender.
+Está funcionando perfeitamente.
+Eu já tinha familiaridade com o cloud shell, dado curso que fiz através da faculdade. 
