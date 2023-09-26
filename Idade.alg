@@ -10,4 +10,4 @@ Inicio
             escreva("Voce e menor de idade!")
           fimse
         fimse
-Fimalgoritmo'
+Fimalgoritmo
